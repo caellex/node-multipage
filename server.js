@@ -1,5 +1,3 @@
-const sql = require("msnodesqlv8");
-
 const http = require('http');
 const fs = require('fs')
 
